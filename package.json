@@ -1,10 +1,10 @@
 {
   "name": "vuetify-styled-components",
   "version": "1.4.14",
-  "description": "Visual primitives for the component age. A simple port of styled-components 💅 for Vue",
+  "description": "forked from vue-styled-components",
   "main": "lib/index.js",
   "module": "dist/vue-styled-components.es.js",
-  "author": "Lorenzo Girardi",
+  "author": "Anthony Lucas",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/styled-components/vue-styled-components/issues"
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/styled-components/vue-styled-components.git"
+    "url": "git+https://github.com/tonipepperoni/vuetify-styled-components"
   },
   "keywords": [
     "vue",
@@ -86,7 +86,7 @@
     ]
   },
   "pre-commit": "lint-staged",
-  "homepage": "https://github.com/styled-components/vue-styled-components#readme",
+  "homepage": "https://github.com/tonipepperoni/vue-styled-components",
   "directories": {
     "example": "example",
     "lib": "lib"
